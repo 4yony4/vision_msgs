@@ -1,0 +1,83 @@
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'BoundingBox2D'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'BoundingBox2D'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'BoundingBox2DArray'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'BoundingBox2DArray'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'BoundingBox3D'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'BoundingBox3D'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'BoundingBox3DArray'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'BoundingBox3DArray'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Classification'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Classification'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Classification2D'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Classification2D'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Classification3D'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Classification3D'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Detection2D'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Detection2D'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Detection2DArray'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Detection2DArray'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Detection3D'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Detection3D'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'Detection3DArray'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'Detection3DArray'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'ObjectHypothesis'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'ObjectHypothesis'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'ObjectHypothesisWithPose'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'ObjectHypothesisWithPose'
+
+-
+  ros1_package_name: 'vision_msgs'
+  ros1_message_name: 'VisionInfo'
+  ros2_package_name: 'vision_msgs'
+  ros2_message_name: 'VisionInfo'
